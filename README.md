@@ -11,7 +11,7 @@ Right now:
 Working with tools like:  
 n8n, LangChain, Cursor, Windsurf, Lovable, Bolt, Pinecone, Replicate, Cloudflare Workers, OpenRouter, etc.
 
-Always excited about jamming on solutions to complex problems and building things that actually solve something meaningful for people.
+Always excited about jamming on solutions to complex problems
 
 More soon,  
 Niharika
