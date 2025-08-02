@@ -1,6 +1,6 @@
 ### Hi
 
-I am a Product Manager, currently building AI systems to explore their real-world impact, limitations, and leverage.
+I am a Product Manager, currently building AI systems to explore their real-world impact, limitations, and highest leverage.
 
 Right now:
 - Prototyping autonomous content workflows and AI agents
